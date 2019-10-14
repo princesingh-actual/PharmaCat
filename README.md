@@ -30,7 +30,7 @@ pip install -r requirements.txt
 |  `GET` | http://127.0.0.1:5000/api/details/<b>apitoken</b>                  | Shows your PharmaCat Account Details                    |
 |  `GET` | http://127.0.0.1:5000/api/login/<b>username~password</b>           | Generates your PharmaCat API Token upon successful login|
 |  `GET` | http://127.0.0.1:5000/api/symptoms                                 | Generates list of all Symptoms in your Database         |
-|  `GET` | http://127.0.0.1:5000//api/diagnosesym/<b>symptom1~symptom2</b>    | Diagnoses Disease,medicine and Specialist               |
+|  `GET` | http://127.0.0.1:5000//api/diagnosesym/<b>symptom1~symptom2</b>    | Diagnoses Disease,Medicine and Specialist               |
 
 
 
