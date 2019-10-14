@@ -12,12 +12,14 @@ The Project is divided into *2 sections*:
 
 *To setup the Web Application along with API server do:*
 ```
+python
 pip install virtualenv
 virtualenv venv
 venv\scripts\activate
 ```
 *Then after activating the virtual environment do:*
 ```
+python
 pip install -r requirements.txt
 ```
 
