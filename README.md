@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 | Method | URL                                                     | USE                                                        |
 | ------ | ------------------------------------------------------- | ---------------------------------------------------------  |
-|  `GET` | http://127.0.0.1:5000/api/details/<b>your-api-token</b> | Shows your PharmaCat Account Details                       |
+|  `GET` | http://127.0.0.1:5000/api/details/<b>apitoken</b> | Shows your PharmaCat Account Details                       |
 |  `GET` | http://127.0.0.1:5000/api/login/<b>username~password</b>| Generates your PharmaCat API Token upon successful login   |
 
 
