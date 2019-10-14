@@ -22,5 +22,11 @@ venv\scripts\activate
 pip install -r requirements.txt
 ```
 
+**Documentation for PharmaCat JSON API**
+| Method | URL | Use |
+| --- | --- | --- |
+| `GET` | http://127.0.0.1:5000/api/details/<your-api-token> | Shows your PharmaCat Account Details |
+
+
 
 
