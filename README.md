@@ -11,15 +11,13 @@ The Project is divided into *2 sections*:
 ⋅⋅⋅The Web Application(utilizes Flask) and API Server created by [Apratim Shukla](https://github.com/apratimshukla6),[Mayank Tolani](https://github.com/mak1082) and [Swapnil Mishra](https://github.com/Swapnil0115)
 
 *To setup the Web Application along with API server do:*
-```
-python
+```python
 pip install virtualenv
 virtualenv venv
 venv\scripts\activate
 ```
 *Then after activating the virtual environment do:*
-```
-python
+```python
 pip install -r requirements.txt
 ```
 
