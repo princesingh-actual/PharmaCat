@@ -4,7 +4,7 @@
 
 ### This project was created during the 24 hours Hackathon conducted by Microsoft Innovations Club,VIT Chennai and sponsored by Geek for Geeks.
 
-The Project is divided into *2 sections*:
+The Project is divided into **2 sections**:
 
 ⋅⋅⋅The PharmaCat Android App (based on PharmaCat REST API) created by [Prince Singh](https://github.com/princesinghr1)
 
@@ -16,7 +16,7 @@ pip install virtualenv
 virtualenv venv
 venv\scripts\activate
 ```
-*_Then after activating the virtual environment do:_*
+**Then after activating the virtual environment do:**
 ```
 pip install -r requirements.txt
 ```
